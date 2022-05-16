@@ -1,0 +1,29 @@
+{
+  "heroes": [
+    {
+      "id": "d3abf27a-d220-4f5c-ae47-65548b4cfcb8",
+      "name": "gfhdfgh",
+      "description": "dfghdfgh",
+      "element": "wind"
+    },
+    {
+      "id": "b35a2cac-d540-4a05-ad95-7ce1178de21d",
+      "name": "dfgdfg",
+      "description": "dfgdfg",
+      "element": "wind"
+    },
+    {
+      "id": "6f460e4e-8d60-48a6-8f24-8400922a028c",
+      "name": "hjhgfjfhg ",
+      "description": "jgfhjfghj",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
